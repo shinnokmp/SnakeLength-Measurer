@@ -70,4 +70,4 @@ To ensure accurate measurements, please follow these steps when taking your phot
 
 ---
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/shinnokmp/).
+For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/shinnokmp/SnakeLength-Measurer/).
